@@ -1,6 +1,6 @@
 moveit_setup_assistant_config:
   URDF:
-    package: edo_description
+    package: edo_description_simple
     relative_path: urdf/edo.urdf.xacro
     xacro_args: ""
   SRDF:
